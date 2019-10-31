@@ -1,5 +1,4 @@
 # Weather-App
 
-# Thank You
-
+# Thank
 #So Much
