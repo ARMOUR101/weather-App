@@ -3,7 +3,7 @@ using namespace std;
 void toposort()
 {
     int n;
-    cout<<"Enter the number of vertices ";
+    cout<<"Enter the n    umber of vertices ";
     cin>>n;
     int am[n][n];
     cout<<"Enter the adjacency matrix"<<endl;
