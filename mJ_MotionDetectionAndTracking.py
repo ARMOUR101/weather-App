@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 cap = cv2.VideoCapture(0)
-#cap = cv2.VideoCapture('vtest.avi')
+#cap = cv2.VideoCapture('vtest.avi')  x
 
 ret, frame1 = cap.read()
 ret, frame2 = cap.read()
