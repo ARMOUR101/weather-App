@@ -14,6 +14,7 @@ void toposort()
             cin>>am[i][j];
         }
     }
+    
 
 
 // initialization;
@@ -31,6 +32,8 @@ void toposort()
 
  for(int i=0;i<n;i++)
  {
+     
+     
      for(int j=0;j<n;j++)
      {
          if(am[j][i]!=0)
